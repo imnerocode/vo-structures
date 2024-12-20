@@ -57,7 +57,7 @@ The `Normal` structure represents a normal vector in 3D space with the following
 To use these structures, import the `vo` package in your Go project:
 
 ```go
-import "github.com/imnerocode/vo-structures/vo"
+import "github.com/imnerocode/vo-structures/"
 ```
 
 You can then create and manipulate 3D models using the provided structures.
